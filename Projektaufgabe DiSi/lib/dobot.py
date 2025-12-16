@@ -1,6 +1,6 @@
 from time import sleep
 
-from interface import Interface
+from lib.interface import Interface
 
 
 class Dobot:

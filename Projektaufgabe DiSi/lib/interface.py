@@ -1,7 +1,7 @@
 import serial
 import threading
 
-from message import Message
+from lib.message import Message
 
 
 class Interface:
