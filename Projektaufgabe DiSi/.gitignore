@@ -1,0 +1,54 @@
+# =========================
+# Python Cache
+# =========================
+__pycache__/
+*.py[cod]
+
+# =========================
+# Virtual Environments
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+*.code-workspace
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Machine Learning Models
+# =========================
+*.pkl
+*.joblib
+
+# =========================
+# Build / Distribution
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Logs / Temp
+# =========================
+*.log
+*.tmp
+
+# =========================
+# OS-specific
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Optional: Rohdaten ignorieren
+# (auskommentieren, falls CSVs mit abgegeben werden sollen)
+# =========================
+# RawData*.csv
